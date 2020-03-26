@@ -1,7 +1,0 @@
-name = "prod"
-aws_key_location = ""
-aws_key_name = ""
-database_storage_encrypted = "true"
-db_snapshot = ""
-database_instance_type = "db.t2.small"
-stage_name = "prod"
